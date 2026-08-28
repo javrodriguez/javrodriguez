@@ -11,4 +11,6 @@ Senior Bioinformatics Engineer at NYU Langone. 10 years of multi-omics research;
 
 **🧬 Research line:** deep-learning models of 3D chromatin ([C.Origami extensions](https://github.com/javrodriguez/C.Origami_vGeneric)) + [in-silico genetic screens across 155 B-ALL patient samples](https://github.com/javrodriguez/ISGS_BALL).
 
+**🔧 Open source:** long-time maintainer and #2 contributor (150+ commits) of [NYU-BFX/hic-bench](https://github.com/NYU-BFX/hic-bench) — Hi-C and HiChIP analysis pipelines used across NYU labs.
+
 Shared first author, *Molecular Cell* (2025) · [Publications](https://www.ncbi.nlm.nih.gov/myncbi/1X137yzukYKAC/bibliography/public/) · [LinkedIn](https://www.linkedin.com/in/jrodriguezhernaez/)
