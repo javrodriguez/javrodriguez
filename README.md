@@ -4,10 +4,10 @@ Senior Bioinformatics Engineer at NYU Langone. 10 years of multi-omics research;
 
 **🔭 Flagship:** [GARS — Genomics Agentic Research System](https://github.com/javrodriguez/genomics-agentic-research-system) — reproducible bioinformatics workflows through an LLM agent on HPC.
 
-**📄 Interactive manuscripts (live):**
+**📄 Research frameworks (manuscripts in preparation):**
 
-- [Ensemble NeuralODE GRNs in primary AML](https://javrodriguez.github.io/aml-neuralode-ensemble-grn/) — ChIP-validated regulatory circuitry from marrow metacells
-- [Nanopore HBV–HCC integration](https://javrodriguez.github.io/hbv-hcc-ont-manuscript/) — viral integration, structural variants, methylation, neotelomeres
+- [Ensemble NeuralODE GRNs in primary AML](https://github.com/javrodriguez/aml-neuralode-ensemble-grn) — NeuralODE training, ChIP validation and influence pipelines for regulatory-network inference
+- [Nanopore HBV–HCC integration framework](https://github.com/javrodriguez/hbv-hcc-ont-manuscript) — 29-module long-read pipeline for viral integration, structural variants and methylation
 
 **🧬 Research line:** deep-learning models of 3D chromatin ([C.Origami extensions](https://github.com/javrodriguez/C.Origami_vGeneric)) + [in-silico genetic screens across 155 B-ALL patient samples](https://github.com/javrodriguez/ISGS_BALL).
 
