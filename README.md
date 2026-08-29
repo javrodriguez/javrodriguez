@@ -2,7 +2,7 @@
 
 Senior Bioinformatics Engineer at NYU Langone. 10 years of multi-omics research; now building **agentic AI systems for genomics** — architectures where the filesystem is the state machine, stage contracts constrain the agent, and scientific decisions stay with the human.
 
-**🔭 Flagship:** [GARS — Genomics Agentic Research System](https://github.com/javrodriguez/genomics-agentic-research-system) — reproducible bioinformatics workflows through an LLM agent on HPC · **[▶ try the interactive demo](https://mff2muqhz3ghwmdj6sgfkklrgi0uzffc.lambda-url.us-east-1.on.aws/)** — recorded real runs, playable human gate, in the browser.
+**🔭 Flagship:** [GARS — Genomics Agentic Research System](https://github.com/javrodriguez/genomics-agentic-research-system) — reproducible bioinformatics workflows through an LLM agent on HPC · **[▶ try the interactive demo](https://gars.javrodriguez.dev/)** — recorded real runs, playable human gate, in the browser.
 
 **📄 Research frameworks (manuscripts in preparation):**
 
