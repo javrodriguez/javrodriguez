@@ -13,4 +13,6 @@ Senior Bioinformatics Engineer at NYU Langone. 10 years of multi-omics research;
 
 **🔧 Open source:** long-time maintainer and #2 contributor (150+ commits) of [NYU-BFX/hic-bench](https://github.com/NYU-BFX/hic-bench) — Hi-C and HiChIP analysis pipelines used across NYU labs.
 
+**⚙️ How I build:** agentic engineering as daily practice — Claude Code as the driver, worktree-isolated parallel sessions with merge gates, and eval-driven development: work is reviewed by independent fresh-context evaluators and re-evaluated until it converges. My day-to-day project management runs on a local-first agentic second brain — persistent memory, deterministic hooks, background workers — that I operate and extend. Deterministic code gathers, validates and writes; the model reasons only where judgment is genuine.
+
 Shared first author, *Molecular Cell* (2025) · [Publications](https://www.ncbi.nlm.nih.gov/myncbi/1X137yzukYKAC/bibliography/public/) · [LinkedIn](https://www.linkedin.com/in/jrodriguezhernaez/)
