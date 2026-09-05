@@ -4,6 +4,8 @@ Senior Bioinformatics Engineer at NYU Langone. 10 years of multi-omics research;
 
 **🔭 Flagship:** [GARS — Genomics Agentic Research System](https://github.com/javrodriguez/genomics-agentic-research-system) — reproducible bioinformatics workflows through an LLM agent on HPC · **[▶ try the interactive demo](https://gars.javrodriguez.dev/)** — recorded real runs, playable human gate, in the browser.
 
+**🔌 Tools:** [HiC-MCP](https://github.com/javrodriguez/hic-mcp) — Hi-C / 3D-chromatin analysis for AI agents. An MCP server exposing the open2c stack (cooler, cooltools) over local contact matrices, with a real Micro-C dataset bundled so it runs offline.
+
 **📄 Research frameworks (manuscripts in preparation):**
 
 - [Ensemble NeuralODE GRNs in primary AML](https://github.com/javrodriguez/aml-neuralode-ensemble-grn) — NeuralODE training, ChIP validation and influence pipelines for regulatory-network inference
