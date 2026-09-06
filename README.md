@@ -6,6 +6,8 @@ Senior Bioinformatics Engineer at NYU Langone. 10 years of multi-omics research;
 
 **🔌 Tools:** [HiC-MCP](https://github.com/javrodriguez/hic-mcp) — Hi-C / 3D-chromatin analysis for AI agents. An MCP server exposing the open2c stack (cooler, cooltools) over local contact matrices, with a real Micro-C dataset bundled so it runs offline.
 
+**🔬 Evaluating the systems:** [PeerPanel](https://github.com/javrodriguez/peerpanel) — a multi-agent scientific-review system built to be measured: planted defects scored by a committed rule with its own negative control, per-call run conditions on every record, and the result published as the record shows it — a null.
+
 **📄 Research frameworks (manuscripts in preparation):**
 
 - [Ensemble NeuralODE GRNs in primary AML](https://github.com/javrodriguez/aml-neuralode-ensemble-grn) — NeuralODE training, ChIP validation and influence pipelines for regulatory-network inference
