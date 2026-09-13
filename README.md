@@ -1,12 +1,15 @@
 ## Javier Rodriguez Hernaez
 
-Senior Bioinformatics Engineer at NYU Langone. 10 years of multi-omics research; now building **agentic AI systems for genomics** — architectures where the filesystem is the state machine, stage contracts constrain the agent, and scientific decisions stay with the human.
+Senior Bioinformatics Engineer at NYU Langone. 8 years of multi-omics research; now building **trustworthy AI systems for genomics** — reproducible workflows, provenance, human approval gates on the study design and the analysis plan, and pre-registered evaluations that measure where the AI fails, published as measured.
 
-**🔭 Flagship:** [GARS — Genomics Agentic Research System](https://github.com/javrodriguez/genomics-agentic-research-system) — reproducible bioinformatics workflows through an LLM agent on HPC · **[▶ try the interactive demo](https://gars.javrodriguez.dev/)** — recorded real runs, playable human gate, in the browser.
+**🔭 Flagship:** [GARS — Genomics Agentic Research System](https://github.com/javrodriguez/genomics-agentic-research-system) — reproducible bioinformatics workflows through an LLM agent on HPC, where the filesystem is the state machine, stage contracts constrain the agent, and scientific decisions stay with the human · **[▶ try the interactive demo](https://gars.javrodriguez.dev/)** — recorded real runs, playable human gate, in the browser.
+
+**🔬 Measuring where the AI fails:**
+
+- [The Gap Study](https://github.com/javrodriguez/genomics-agentic-research-system/blob/main/docs/EVALS.md#the-gap-study) — a pre-registered, controlled study of the GARS agent: six failure-mode tasks, each with a control, on three Claude models; 108 graded takes, frozen before the first take with every amendment recorded, regraded without calling a model, and published exactly as graded: 2 of 18 model–task cells held.
+- [PeerPanel](https://github.com/javrodriguez/peerpanel) — a multi-agent scientific-review system built to be measured: planted defects scored by a committed rule with its own negative control, per-call run conditions on every record, and the result published as the record shows it — a null.
 
 **🔌 Tools:** [HiC-MCP](https://github.com/javrodriguez/hic-mcp) — Hi-C / 3D-chromatin analysis for AI agents. An MCP server exposing the open2c stack (cooler, cooltools) over local contact matrices, with a real Micro-C dataset bundled so it runs offline.
-
-**🔬 Evaluating the systems:** [PeerPanel](https://github.com/javrodriguez/peerpanel) — a multi-agent scientific-review system built to be measured: planted defects scored by a committed rule with its own negative control, per-call run conditions on every record, and the result published as the record shows it — a null.
 
 **📄 Research frameworks (manuscripts in preparation):**
 
