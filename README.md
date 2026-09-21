@@ -1,6 +1,8 @@
 ## Javier Rodriguez Hernaez
 
-Senior Bioinformatics Engineer at NYU Langone. 8 years of multi-omics research; now building **trustworthy AI systems for genomics** — reproducible workflows, provenance, human approval gates on the study design and the analysis plan, and pre-registered evaluations that measure where the AI fails, published as measured.
+Senior Bioinformatics Engineer at NYU Langone. 8 years of multi-omics research; now building **trustworthy AI systems for genomics** — reproducible workflows, provenance, human approval gates on the study design and the analysis plan, and pre-registered evaluations that measure where AI fails and where it adds real value, published as measured.
+
+AI can now build an end-to-end pipeline and run a genomics analysis astonishingly fast. That has moved the bottleneck to validation, which makes evaluation the most critical process and skill right now, and it's where I spend most of my time. I build AI systems up through evaluation gates: an AI feature goes into use only once its added value has been tested and shown.
 
 **🔭 Flagship:** [GARS — Genomics Agentic Research System](https://github.com/javrodriguez/genomics-agentic-research-system) — reproducible bioinformatics workflows through an LLM agent on HPC, where the filesystem is the state machine, stage contracts constrain the agent, and scientific decisions stay with the human · **[▶ try the interactive demo](https://gars.javrodriguez.dev/)** — recorded real runs, playable human gate, in the browser.
 
