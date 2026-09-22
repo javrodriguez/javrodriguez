@@ -13,7 +13,7 @@ AI can now build an end-to-end pipeline and run a genomics analysis astonishingl
 
 **🔌 Tools:** [HiC-MCP](https://github.com/javrodriguez/hic-mcp) — Hi-C / 3D-chromatin analysis for AI agents. An MCP server exposing the open2c stack (cooler, cooltools) over local contact matrices, with a real Micro-C dataset bundled so it runs offline.
 
-**📄 Research frameworks (manuscripts in preparation):**
+**📄 Research frameworks:**
 
 - [Ensemble NeuralODE GRNs in primary AML](https://github.com/javrodriguez/aml-neuralode-ensemble-grn) — NeuralODE training, ChIP validation and influence pipelines for regulatory-network inference
 - [Nanopore HBV–HCC integration framework](https://github.com/javrodriguez/hbv-hcc-ont-manuscript) — 29-module long-read pipeline for viral integration, structural variants and methylation
