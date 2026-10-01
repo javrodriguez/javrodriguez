@@ -1,4 +1,4 @@
-## Javier Rodriguez Hernaez
+## Javier Rodríguez Hernáez
 
 Formerly Senior Bioinformatics Programmer at NYU Langone (2018–2026); now independent and **open to contract and full-time work** in AI for science and genomics. 8 years of multi-omics research; now building **trustworthy AI systems for genomics** — reproducible workflows, provenance, human approval gates on the study design and the analysis plan, and pre-registered evaluations that measure where AI fails and where it adds real value, published as measured.
 
